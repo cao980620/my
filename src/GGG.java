@@ -4,6 +4,6 @@ public class GGG {
         System.out.println("hello word");
         System.out.println("/n");
         System.out.println("your are famuli");
-       
+
     }
 }
